@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 asdfasddf
 HALLOOOOOOOOOOOOOOOOOOOOO
+=======
+
+gyjkughjkgkryuk
+
+asdfasddf
+
+>>>>>>> 5e0a924f705c3156e71acf0394cec700e4355cd9
